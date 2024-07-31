@@ -2,7 +2,7 @@
 
 ## Overview
 
-![ipl data analytics image](https://github.com/user-attachments/assets/556cb3bd-3f8d-46bf-9161-8b50df870d37)
+![G8aI0hyVnAA-HD](https://github.com/user-attachments/assets/d096ed56-e818-433f-b395-a805cfe0d1e9)
 
 
 The IPL Live Score Data Analytics Dashboard is a dynamic and interactive dashboard that provides real-time updates and analytics on IPL matches. Utilizing the Cricbuzz RapidAPI for live match details, the dashboard features player photos, team logos, and live statistics on sixes, fours, singles, and doubles. The project leverages Power BI's visualization tools and DAX coding to create a visually appealing and informative dashboard.
